@@ -168,4 +168,5 @@ Hệ thống có các tác nhân và chức năng chính như sau:
 
 ## Liên hệ
 
-Nếu cần hỗ trợ, vui lòng liên hệ qua email: **support@clinicmanager.com**
+Email:
+Phone:
