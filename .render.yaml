@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: quanlyphongkhamdalieu-app
+    env: docker
+    repo: https://github.com/luongtrinh2004/Patient_Management.git
+    region: oregon
+    rootDir: Patient_Management
